@@ -31,7 +31,7 @@ O código segue a estrutura de **interfaces** para cada funcionalidade do iPhone
 - `NavegadorInternet.java` (Interface do navegador na internet)
 - `iPhone.java` (Classe que implementa todas as interfaces)
    ```
-
+   
 ## 📌 Exemplo de Saída no Terminal
 
 ```

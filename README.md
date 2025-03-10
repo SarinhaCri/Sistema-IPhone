@@ -4,17 +4,17 @@ Este projeto consiste na modelagem e implementação de um sistema para represen
 
 ## 📌 Funcionalidades Implementadas
 
-1. **Reprodutor Musical** 🎵
+1. **Reprodutor Musical** 
    - `tocar()`: Inicia a reprodução da música
    - `pausar()`: Pausa a música
    - `selecionarMusica(String musica)`: Seleciona uma música para reprodução
 
-2. **Aparelho Telefônico** 📞
+2. **Aparelho Telefônico** 
    - `ligar(String numero)`: Realiza uma ligação
    - `atender()`: Atende uma chamada
    - `iniciarCorreioVoz()`: Inicia o correio de voz
 
-3. **Navegador na Internet** 🌍
+3. **Navegador na Internet** 
    - `exibirPagina(String url)`: Exibe uma página da web
    - `adicionarNovaAba()`: Adiciona uma nova aba ao navegador
    - `atualizarPagina()`: Atualiza a página atual
@@ -30,24 +30,6 @@ O código segue a estrutura de **interfaces** para cada funcionalidade do iPhone
 - `AparelhoTelefonico.java` (Interface do aparelho telefônico)
 - `NavegadorInternet.java` (Interface do navegador na internet)
 - `iPhone.java` (Classe que implementa todas as interfaces)
-
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd seu-repositorio
-   ```
-3. Compile os arquivos Java:
-   ```bash
-   javac SistemaIPhone.java
-   ```
-4. Execute o programa:
-   ```bash
-   java SistemaIPhone
    ```
 
 ## 📌 Exemplo de Saída no Terminal

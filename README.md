@@ -23,7 +23,7 @@ Este projeto consiste na modelagem e implementação de um sistema para represen
 
 O código segue a estrutura de **interfaces** para cada funcionalidade do iPhone. A classe `iPhone` implementa todas as interfaces e fornece a funcionalidade completa.
 
-### 📄 Classes e Interfaces
+###  Classes e Interfaces
 
 - `SistemaIPhone.java` (Classe principal - Ponto de entrada do programa)
 - `ReprodutorMusical.java` (Interface do reprodutor de música)

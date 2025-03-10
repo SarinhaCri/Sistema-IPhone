@@ -19,7 +19,7 @@ Este projeto consiste na modelagem e implementação de um sistema para represen
    - `adicionarNovaAba()`: Adiciona uma nova aba ao navegador
    - `atualizarPagina()`: Atualiza a página atual
 
-## 🛠 Estrutura do Código
+##  Estrutura do Código
 
 O código segue a estrutura de **interfaces** para cada funcionalidade do iPhone. A classe `iPhone` implementa todas as interfaces e fornece a funcionalidade completa.
 
